@@ -35,7 +35,7 @@
                                 alt="Hightowns Contracting and Trading Est">
                             <h5 class="card-title margin-bottom-50">Hightowns Contracting and Trading Est</h5>
                         </div>
-                        <div class="col-8 ">
+                        <div class="col-12  col-sm-12 col-md-8">
                             <h3>High Towns Est</h3>
                             <p class="card-text">High Towns is the Trading and Contracting Company. We undertake all
                                 inquiries related to Automation Components. We would appreciate hearing your comments,
@@ -69,7 +69,7 @@
                                 <li>Supplying All inverters with programming and installation.</li>
                             </ol>
                         </div>
-                        <div class="col-4">
+                        <div class="col-12 col-sm-12 col-md-4">
                             <div class="jumbotron">
                                 <h5>Contact Us:</h5>
                                 <p class="">sales@hightowns.com <br>+966540984014</p>
